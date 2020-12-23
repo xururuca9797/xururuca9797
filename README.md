@@ -1,16 +1,18 @@
 ### Hi there 👋
+# Yurim.Dev
 
-<!--
-**xururuca9797/xururuca9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+😊 저는 웹 개발에 관심이 많습니다.
+💻 다양한 환경의 프로젝트와 라이브러리 경험을 통한 다양한 것들을 개발하는 걸 좋아합니다.
+⚡ 모든 프로젝트를 깃허브를 활용해 관리하며 작업하였습니다.
+✨ 원활한 협업과 동료의 의견을 존중하는 태도로 재미있고 유용한 개발을 하고싶습니다.
+🙆‍♀️ 코드리뷰에 임하여 다양한 의견을 듣는 것에 두려움이 없습니다.
+---
+### Skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Javascript
+- Styled Component
+- Route
+---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xururuca9797&show_icons=true)
