@@ -9,12 +9,12 @@
     🙆‍♀️ 코드리뷰에 임하여 다양한 의견을 듣는 것에 두려움이 없습니다.
    </em>
  </p>
+ 
 ---
+
 ## Skill
 
 - React.js
 - Javascript
 - Styled Component
 - Route
----
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xururuca9797&show_icons=true)
