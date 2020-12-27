@@ -9,7 +9,7 @@
  </p>
  
 
-### Skill
+### SKILL
 
 - React.js
 - Javascript
