@@ -22,4 +22,4 @@
 
 ### PORTFOLIO &#128515;
 
-- Link : [View](https://xururuca9797.github.io/yurim.dev/)
+- Link : [View](https://github.com/xururuca9797/yurim.dev)
